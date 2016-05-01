@@ -1,6 +1,7 @@
 <p align="center"> <img src="http://www.brasileirosnomundo.itamaraty.gov.br/brmundo_logo.png" alt="">
 </p>
 <h1 align="center">Paulo Henrique Correia</h1>
+<p align="center">Representante dos Brasileiros do norte da Itália</p>
 <p align="center"><span>&#x1f1e7;&#x1f1f7;português brasileiro </span>| :it: italiano |:us: english</p>
 
 
