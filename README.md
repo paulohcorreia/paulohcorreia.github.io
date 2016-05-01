@@ -1,8 +1,12 @@
-# Paulo Henrique Correia
+<p align="center">![Brasileiros no Mundo](http://www.brasileirosnomundo.itamaraty.gov.br/brmundo_logo.png)
+</p>
+<h1 align="center">Paulo Henrique Correia</h1>
+<p align="center"><span>&#x1f1e7;&#x1f1f7;português brasileiro </span>| :it: italiano |:us: english</p>
+
 
 <span>&#x1f1e7;&#x1f1f7;</span> Essa é a minha página oficial que será usada para comunicar com a comunidade brasileira que vive no norte da Itália.
 
-:it: Questo è il mio sito ufficiale. Lo usero per comunicare con
+:it: Questo è il mio sito ufficiale. Lo usero per comunicare con la communità brasiliana residente nel nord d'Italia.
 
 :us: This is my official landing page. I will be using this website to communicate with the community of the Brazilians living in the North of Italy during the V Convention of Brazilians Living Abroad.
 
