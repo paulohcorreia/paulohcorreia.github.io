@@ -12,42 +12,59 @@ A Conferência discutirá variados temas em seis mesas:
 1. Mesa 1 - Previdência Social, Assistência Social, Gênero, Sexualidade, Saúde
 
    1. Previdência Social
+
     - O estado da colaboração entre o Brasil e a Itália
+
    + Assistência Social
+
     - Assistentes sociais e as formas de tratamento de brasileiros na Itália
+
    + Gênero
+
     - Questões de gênero na Itália
+
    + Sexualidade
+
    + Saúde
+
     - Acesso ao sistema sanitário italiano
+
     - Dentistas
+
     - Nutricionistas
 
 2. Mesa 2 - Trabalho, Remessas, Investimentos, Empreendedorismo e Retorno
 
    1. Trabalho
+
    + Remessas
+
    + Investimentos
+
    + Retorno   
 
 3. Assuntos Consulares e Questões Jurídicas: MRE
 
    1. Assuntos Consulares
    + Questões Jurídicas
+   
 
 4. Mesa 4 - Cultura e Esporte
 
   1. Cultura
+  
   + Esporte
 
 5. Mesa 5 - Educação
 
   1. ENCCEJA
+  
   + Língua Portuguêsa
 
 6. Mesa 6 - Associativismo
 
   1. Formas de colaboração entre os consulados e as comunidades
+  
   + Alternativas para constituir associações fortes
 
 
