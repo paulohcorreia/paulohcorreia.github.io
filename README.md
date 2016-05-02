@@ -11,30 +11,30 @@
 
 Nessa página vou listar os artigos de especialistas ou pessoas representativas dos temas em debate.
 
+- Se você é colaborador: Envie o seu artigo em arquivo formato .txt para o endereço paulohenrique@wara.it.
+
 ### Ferramentas de comunicação
 
 **Github** Página vou publicar os artigos escritos por especialistas. Em um segundo momento os artigos serão publicados em site exclusivo para tal proposito.
 
-- Se você é colaborador: Envie o seu artigo em arquivo formato .txt para o endereço paulohenrique@wara.it. 
+**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CVM do CDC Milão](https://trello.com/b/fn82VRJb/v-convencao-dos-brasileiros-no-mundo).
 
-**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado aqui (em desenvolvimento).
-
-**Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos.
+**Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
 
 **Facebook**
 
-**E-mail**
+**E-mail** Canal direto para receber recomendações de todos os membros da comunidade brasileira no norte da Itália. Para enviar um e-mail clique aqui: [paulohenrique@wara.it](mailto:paulohenrique@wara.it)
 
-**Formulário**
+**Formulário** Canal para uma avaliação qualitativa da percepção da comunidade acerca dos temas propostos na V CBM. :warning: _Não disponível_
 
 ---
+
+### A V Conferência dos Brasileiros no Mundo
 
 A Conferência discutirá variados temas em seis mesas:
 
 1. Mesa 1 - Previdência Social, Assistência Social, Gênero, Sexualidade, Saúde
-
    1. Previdência Social
-
     - O estado da colaboração entre o Brasil e a Itália
 
    + Assistência Social
@@ -51,30 +51,25 @@ A Conferência discutirá variados temas em seis mesas:
     - Nutricionistas
 
 2. Mesa 2 - Trabalho, Remessas, Investimentos, Empreendedorismo e Retorno
-
    1. Trabalho
    + Remessas
    + Investimentos
    + Retorno   
 
 3. Assuntos Consulares e Questões Jurídicas: MRE
-
    1. Assuntos Consulares
    + Questões Jurídicas
 
 
 4. Mesa 4 - Cultura e Esporte
-
   1. Cultura
   + Esporte
 
 5. Mesa 5 - Educação
-
   1. ENCCEJA
   + Língua Portuguêsa
 
 6. Mesa 6 - Associativismo
-
   1. Formas de colaboração entre os consulados e as comunidades
   + Alternativas para constituir associações fortes
 
@@ -92,3 +87,9 @@ This section is under construction.
 Associações que participam e contribuem debatendo junto ao Conselho dos Cidadãos do Consulado de Milão são:
 
 - [Associação Warã](www.wara.it)
+- [Associação Luanda]()
+- [Associação Raízes do Brasil]()
+- [Sacro Cuore]
+- [Ven-Brasil]
+- [AIBM]
+- [Consulado Geral do Brasil em Milão](milao.itamaraty.gov.br)
