@@ -21,7 +21,7 @@ Nessa página vou listar os artigos de especialistas ou pessoas representativas 
 
 **Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
 
-**Facebook**
+**Facebook** Canal de comunicação através da página da Associação Warã[fb.me/AssociazioneWara](https://fb.me/AssociazioneWara)
 
 **E-mail** Canal direto para receber recomendações de todos os membros da comunidade brasileira no norte da Itália. Para enviar um e-mail clique aqui: [paulohenrique@wara.it](mailto:paulohenrique@wara.it)
 
