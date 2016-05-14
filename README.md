@@ -75,11 +75,11 @@ A Conferência discutirá variados temas em seis mesas:
   + Alternativas para constituir associações fortes
 
 
-:it: Questo è il mio sito ufficiale. Lo usero per comunicare con la communità brasiliana residente nel nord d'Italia.
+:it: Questo è sito ufficiale che sarà usato per comunicare con la communità brasiliana residente nel nord d'Italia durante la V Conferenza dei Brasiliani Residenti all'estero.
 
 Questa sezione è in costruzione.
 
-:us: This is my official landing page. I will be using this website to communicate with the community of the Brazilians living in the North of Italy during the V Convention of Brazilians Living Abroad.
+:us: This the official page to employed as a communication tool to reach the community of the Brazilians living in the North of Italy during the V Convention of Brazilians Living Abroad.
 
 This section is under construction.
 
