@@ -12,21 +12,22 @@
 
 ### Ferramentas de comunicação
 
-**Github** Instrumento para disponibilização da página na internet.
+<span class='icon icon-repo'></span> **Github** Instrumento para disponibilização da página na internet.
 
 **Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CBM do CDC Milão](https://trello.com/b/fn82VRJb/v-convencao-dos-brasileiros-no-mundo).
 
-**Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
+<span class='icon icon-broadcast'></span> **Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
 
-**Facebook** Canal de comunicação através da página da Associação Warã [fb.me/AssociazioneWara](https://fb.me/AssociazioneWara)
+<span class='icon icon-broadcast'></span> **Facebook** Canal de comunicação através da página da Associação Warã [fb.me/AssociazioneWara](https://fb.me/AssociazioneWara)
 
 **E-mail** Canal direto para receber recomendações de todos os membros da comunidade brasileira no norte da Itália. Para enviar um e-mail clique aqui: [paulohenrique@wara.it](mailto:paulohenrique@wara.it)
 
-**Formulário** Canal para uma avaliação qualitativa da percepção da comunidade acerca dos temas propostos na V CBM. :warning: _Não disponível_
+**Formulário** Canal para uma avaliação qualitativa da percepção da comunidade acerca dos temas propostos na V CBM. [Acesse aqui](http://goo.gl/forms/LmuI1mVkIv)
+
 
 ---
 
-Ligação para a video-conferência em que foram discutidos as propostas recolhidas pelas comunidades. :warning: _Não disponível_
+<span class='icon icon-device-camera-video'></span> Ligação para a video-conferência em que foram discutidos as propostas recolhidas pelas comunidades.  :warning: _Não disponível_
 
 ---
 
