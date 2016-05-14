@@ -1,10 +1,12 @@
 <h1 align="center">Paulo Henrique Correia</h1>
 <p align="center">Representante dos Brasileiros do norte da Itália</p>
 <p align="center">Conselho dos Cidadãos do Consulado Geral de Milão</p>
-<p align="center"><span>&#x1f1e7;&#x1f1f7; português brasileiro </span>| :it:  italiano |:us: english</p>
+<p align="center"><span>&#x1f1e7;&#x1f1f7; [Português brasileiro](#portugues-brasileiro) </span>| :it:  [Italiano](#italiano) |:us: [English](#english)</p>
 
 
-<span>&#x1f1e7;&#x1f1f7;</span> Página oficial que será instrumento de comunicação com a comunidade brasileira que vive no norte da Itália durante a [V Conferência dos Brasileiros no Mundo](http://brasileirosnomundo.itamaraty.gov.br/noticias/v-conferencia-brasileiros-no-mundo).
+# <span>&#x1f1e7;&#x1f1f7;</span> Português Brasileiro
+
+ Página oficial que será instrumento de comunicação com a comunidade brasileira que vive no norte da Itália durante a [V Conferência dos Brasileiros no Mundo](http://brasileirosnomundo.itamaraty.gov.br/noticias/v-conferencia-brasileiros-no-mundo).
 
 ### Como participar
 
@@ -76,7 +78,9 @@ A Conferência discutirá variados temas em seis mesas:
   + Alternativas para constituir associações fortes
 
 
-:it: Questo è sito ufficiale che sarà usato per comunicare con la communità brasiliana residente nel nord d'Italia durante la V Conferenza dei Brasiliani Residenti all'estero.
+# :it: [Italiano](#Italiano)
+
+Questo è sito ufficiale che sarà usato per comunicare con la communità brasiliana residente nel nord d'Italia durante la V Conferenza dei Brasiliani Residenti all'estero.
 
 Questa sezione è in costruzione.
 
