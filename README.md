@@ -1,31 +1,32 @@
-<p align="center"> <img src="http://www.brasileirosnomundo.itamaraty.gov.br/brmundo_logo.png" alt="">
-</p>
 <h1 align="center">Paulo Henrique Correia</h1>
 <p align="center">Representante dos Brasileiros do norte da Itália</p>
-<p align="center"><span>&#x1f1e7;&#x1f1f7;português brasileiro </span>| :it: italiano |:us: english</p>
+<p align="center">Conselho dos Cidadãos do Consulado Geral de Milão</p>
+<p align="center"><span>&#x1f1e7;&#x1f1f7; português brasileiro </span>| :it:  italiano |:us: english</p>
 
 
-<span>&#x1f1e7;&#x1f1f7;</span> Essa é a minha página oficial que será usada para comunicar com a comunidade brasileira que vive no norte da Itália durante a [V Conferência dos Brasileiros no Mundo](http://brasileirosnomundo.itamaraty.gov.br/noticias/v-conferencia-brasileiros-no-mundo).
+<span>&#x1f1e7;&#x1f1f7;</span> Página oficial que será instrumento de comunicação com a comunidade brasileira que vive no norte da Itália durante a [V Conferência dos Brasileiros no Mundo](http://brasileirosnomundo.itamaraty.gov.br/noticias/v-conferencia-brasileiros-no-mundo).
 
 ### Como participar
 
-Nessa página vou listar os artigos de especialistas ou pessoas representativas dos temas em debate.
-
-- Se você é colaborador: Envie o seu artigo em arquivo formato .txt para o endereço paulohenrique@wara.it.
+- Se você é colaborador: Faça seu comentário no [texto aberto](https://docs.google.com/document/d/1YP6xjQnen_2W3LGPC_6iLYPjIgxelbGGCWD33-miiRk/edit?usp=sharing) com as soluções propostas ou mande um e-mail para o endereço paulohenrique@wara.it.
 
 ### Ferramentas de comunicação
 
-**Github** Página vou publicar os artigos escritos por especialistas. Em um segundo momento os artigos serão publicados em site exclusivo para tal proposito.
+**Github** Instrumento para disponibilização da página na internet.
 
-**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CVM do CDC Milão](https://trello.com/b/fn82VRJb/v-convencao-dos-brasileiros-no-mundo).
+**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CBM do CDC Milão](https://trello.com/b/fn82VRJb/v-convencao-dos-brasileiros-no-mundo).
 
 **Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
 
-**Facebook** Canal de comunicação através da página da Associação Warã[fb.me/AssociazioneWara](https://fb.me/AssociazioneWara)
+**Facebook** Canal de comunicação através da página da Associação Warã [fb.me/AssociazioneWara](https://fb.me/AssociazioneWara)
 
 **E-mail** Canal direto para receber recomendações de todos os membros da comunidade brasileira no norte da Itália. Para enviar um e-mail clique aqui: [paulohenrique@wara.it](mailto:paulohenrique@wara.it)
 
 **Formulário** Canal para uma avaliação qualitativa da percepção da comunidade acerca dos temas propostos na V CBM. :warning: _Não disponível_
+
+---
+
+Ligação para a video-conferência em que foram discutidos as propostas recolhidas pelas comunidades. :warning: _Não disponível_
 
 ---
 
@@ -87,9 +88,8 @@ This section is under construction.
 Associações que participam e contribuem debatendo junto ao Conselho dos Cidadãos do Consulado de Milão são:
 
 - [Associação Warã](www.wara.it)
-- [Associação Luanda]()
-- [Associação Raízes do Brasil]()
-- [Sacro Cuore]
-- [Ven-Brasil]
-- [AIBM]
+- [Associação Luanda](www.assocluanda.blogspot.it)
+- [Associação Raízes do Brasil](http://acbraizesdobrasil.com/)
+- [Comunidade dos Brasileiros em Verona]
+- [Ven-Brasil](https://www.facebook.com/venbrasil.padova/?fref=ts)
 - [Consulado Geral do Brasil em Milão](milao.itamaraty.gov.br)
