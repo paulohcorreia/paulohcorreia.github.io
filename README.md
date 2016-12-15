@@ -20,7 +20,7 @@
 
 <span class='icon icon-repo'></span> **Github** Instrumento para disponibilização da página na internet.
 
-**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CBM do CDC Milão](https://trello.com/b/fn82VRJb/v-convencao-dos-brasileiros-no-mundo).
+**Trello** Quadro usado para monitorar o andamento das atividades. Pode ser acessado [Quadro V CBM do CDC Milão](https://trello.com/b/OezHplF7/plano-de-acao-crbe-2016-2018).
 
 <span class='icon icon-broadcast'></span> **Twitter** Canal de comunicação usado para divulgação das minhas impressões sobre os eventos. Pode ser acessado em [@paulohcorreia](https://twitter.com/paulohcorreia)
 
@@ -33,7 +33,7 @@
 
 ---
 
-<span class='icon icon-device-camera-video'></span> Ligação para a video-conferência em que foram discutidos as propostas recolhidas pelas comunidades.  :warning: _Não disponível_
+<span class='icon icon-device-camera-video'></span> Ligação para a video-conferência em que foram discutidos as propostas recolhidas pelas comunidades.  [Acesse aqui](https://www.youtube.com/playlist?list=PLoG7zqluLFSo76EO8xQciffuqxHiIC3qV)
 
 ---
 
