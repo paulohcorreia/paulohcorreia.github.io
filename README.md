@@ -1,7 +1,7 @@
 <h1 align="center">Paulo Henrique Correia</h1>
 <p align="center">Representante dos Brasileiros do norte da Itália</p>
 <p align="center">Conselho dos Cidadãos do Consulado Geral de Milão</p>
-<span>&#x1f1e7;&#x1f1f7;</span> [Português brasileiro](#portugues-brasileiro)
+<span>&#x1f1e7;&#x1f1f7;</span> [Português brasileiro](https://github.com/paulohcorreia/website#portugues-brasileiro)
 
 :it:  [Italiano](https://github.com/paulohcorreia/website#it-italiano)
 
