@@ -1,14 +1,14 @@
 <h1 align="center">Paulo Henrique Correia</h1>
 <p align="center">Representante dos Brasileiros do norte da Itália</p>
 <p align="center">Conselho dos Cidadãos do Consulado Geral de Milão</p>
-<span>&#x1f1e7;&#x1f1f7;</span>  [Português brasileiro](https://github.com/paulohcorreia/paulohcorreia.github.io#-português-brasileiro)
+<a href="#portugues-brasileiro"><span>&#x1f1e7;&#x1f1f7;</span> Português brasileiro</a>
 
 :it:  [Italiano](https://github.com/paulohcorreia/website#it-italiano)
 
 :us: [English](https://github.com/paulohcorreia/website#us-english)
 
 
-# <span>&#x1f1e7;&#x1f1f7;</span> Português Brasileiro
+<h2 id="portugues-brasileiro"><span>&#x1f1e7;&#x1f1f7;</span> Português Brasileiro</h2> 
 
  Página oficial que será instrumento de comunicação com a comunidade brasileira que vive no norte da Itália durante a [V Conferência dos Brasileiros no Mundo](http://brasileirosnomundo.itamaraty.gov.br/noticias/v-conferencia-brasileiros-no-mundo).
 
@@ -82,13 +82,13 @@ A Conferência discutirá variados temas em seis mesas:
   + Alternativas para constituir associações fortes
 
 
-# :it: Italiano
+## :it: Italiano
 
 Questo è sito ufficiale che sarà usato per comunicare con la communità brasiliana residente nel nord d'Italia durante la V Conferenza dei Brasiliani Residenti all'estero.
 
 Questa sezione è in costruzione.
 
-# :us: English
+## :us: English
 
 This the official page to employed as a communication tool to reach the community of the Brazilians living in the North of Italy during the V Convention of Brazilians Living Abroad.
 
